@@ -1,0 +1,6 @@
+server
+client
+replay
+web_server
+*.o
+game_log.txt
